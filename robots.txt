@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://SP26-CS315-ZachWilson.github.io/sitemap.xml
